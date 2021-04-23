@@ -9,6 +9,8 @@ import android.widget.Toast
 class MainActivity : AppCompatActivity() {
 
     val TAG = "BLABLA"
+    val msg="123"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState) //first life cycle method
         setContentView(R.layout.activity_main) //load the xml heirarchy
