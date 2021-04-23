@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
     val TAG = "BLABLA"
     val msg="123"
+    val msg1="1234"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState) //first life cycle method
